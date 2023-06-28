@@ -197,7 +197,7 @@ img {
   background: rgb(76,78,71);
 background: linear-gradient(90deg, rgba(76,78,71,1) 0%, rgba(61,174,132,1) 48%, rgba(38,79,98,1) 89%);
   text-align: center;
-  color:;
+  color: red;
 }
 
 .banner .banner--content {
